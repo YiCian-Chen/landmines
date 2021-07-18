@@ -21,5 +21,7 @@
 預設地圖為9*9，地雷10個，可以自行設定變更，
 
 在Frame.java中，第22,23行
+
 public static JButton button[][]=new JButton[9][9];
+
 public static int bomb_num = 10;
